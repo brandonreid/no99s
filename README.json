@@ -1,0 +1,11 @@
+Inform these folks when it's made.
+https://www.reddit.com/r/firefox/comments/hlyy8h/addonrequest_round_all_online_retail_prices_up_to/
+
+This tought me about parsing all the text: https://github.com/mdn/webextensions-examples/blob/master/emoji-substitution/substitute.js
+This might teach me about storing data and creating settings: https://github.com/mdn/webextensions-examples/tree/master/favourite-colour
+This might also teach about settings: https://github.com/mdn/webextensions-examples/tree/master/beastify
+
+Load in firefox
+1. Go to: about:debugging
+2. Click "This Firefox"
+3. Load the `manifest.json` file.

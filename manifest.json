@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "No 99s",
+    "description": "Round 99 cent prices up to the next dollar.",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["content.js"]
+        }
+    ]
+}
